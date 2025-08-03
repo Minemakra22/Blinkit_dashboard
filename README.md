@@ -6,8 +6,7 @@ Excited to share my latest Power BI project, where I built a real-time interacti
 To transform raw transactional data into a visually rich dashboard that helps stakeholders track performance, identify trends, and make data-driven decisions – all in real-time.
 
 💼 Dashboard Features
-✔️ Real-time KPIs (Sales, Items Sold, Avg. Rating, Avg. Sales per Item)
- ✔️ Dynamic filtering: by Outlet Type, Size, Location, Item Category
+✔️ Real-time KPIs (Sales, Items Sold, Avg. Rating, Avg. Sales per Item) ✔️ Dynamic filtering: by Outlet Type, Size, Location, Item Category
  ✔️ Trend Analysis (2012–2022 outlet growth)
  ✔️ Sales breakdown by Fat Content (Regular vs Low Fat)
  ✔️ Tier-wise outlet performance comparison
